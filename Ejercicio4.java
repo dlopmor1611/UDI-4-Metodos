@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio4 {
+public class Ejercicio4 {
     public static String convierteArrayEnString(int[] a) {
         String resultado = "";
         for (int numero : a) {
